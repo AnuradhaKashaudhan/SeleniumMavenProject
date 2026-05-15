@@ -1,7 +1,3 @@
-# SeleniumMavenProject
-Selenium Automation Testing Framework using Selenium, Maven, TestNG and POM
-
-
 # 🚀 Selenium Automation Framework
 
 An advanced Selenium Automation Testing Framework built using **Java, Selenium WebDriver, Maven, TestNG, Page Object Model (POM), Screenshot Utility, and Extent Reports**.
@@ -284,4 +280,6 @@ GitHub: [https://github.com/AnuradhaKashaudhan](https://github.com/AnuradhaKasha
 
 ---
 
-# ⭐ If you
+# ⭐ If you found this project useful
+
+Give this repository a ⭐ on GitHub.
