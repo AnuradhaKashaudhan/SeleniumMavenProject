@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="DemoWebShopSuite">
+
+    <test name="AutomationTests">
+
+        <classes>
+
+            <class name="testcases.LoginAutomationTest"/>
+
+            <class name="testcases.AddToCartAutomationTest"/>
+
+            <class name="testcases.SearchProductTest"/>
+
+        </classes>
+
+    </test>
+
+</suite>
